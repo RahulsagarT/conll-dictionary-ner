@@ -1,0 +1,800 @@
+[0] ( 52.76 / 53.18 )
+  PRED: []
+  GOLD: []
+
+[1] WESTERN CONFERENCE
+  PRED: []
+  GOLD: []
+
+[2] Wasim Akram b Harris 4
+  PRED: [('Wasim Akram', 'PER')]
+  GOLD: [('Harris', 'PER'), ('Wasim Akram', 'PER')]
+
+[3] Mansfield 21 5 9 7 21 22 24
+  PRED: [('Mansfield', 'ORG')]
+  GOLD: [('Mansfield', 'ORG')]
+
+[4] -- New York Commodities Desk , 212-859-1640
+  PRED: [('New York Commodities', 'ORG')]
+  GOLD: [('New York Commodities', 'ORG')]
+
+[5] The 35-year-old woman was charged with possession of explosives with intent to endanger life and making a house available for the purpose of terrorism , police said .
+  PRED: [('The', 'LOC')]
+  GOLD: []
+
+[6] -- Bucharest Newsroom 40-1 3120264
+  PRED: [('Bucharest Newsroom', 'ORG')]
+  GOLD: [('Bucharest Newsroom', 'ORG')]
+
+[7] for , goals against , points ) :
+  PRED: []
+  GOLD: []
+
+[8] Wycombe 22 4 5 13 17 33 17
+  PRED: [('Wycombe', 'ORG')]
+  GOLD: [('Wycombe', 'ORG')]
+
+[9] Indianapolis closes with games at Kansas City and Cincinnati .
+  PRED: [('Cincinnati', 'ORG'), ('Indianapolis', 'LOC'), ('Kansas City', 'LOC')]
+  GOLD: [('Cincinnati', 'LOC'), ('Indianapolis', 'LOC'), ('Kansas City', 'LOC')]
+
+[10] SOCCER - LEADING SCOTTISH PREMIER DIVISION SCORERS .
+  PRED: []
+  GOLD: []
+
+[11] Torquay 22 8 4 10 22 24 28
+  PRED: [('Torquay', 'ORG')]
+  GOLD: [('Torquay', 'ORG')]
+
+[12] New Zealand Prime Minister Jim Bolger , emerging from coalition talks with the nationalist New Zealand First party on Friday afternoon , said National and NZ First would meet again on Sunday .
+  PRED: [('Jim Bolger', 'PER'), ('NZ', 'LOC'), ('National', 'ORG'), ('New Zealand', 'LOC'), ('New Zealand', 'LOC')]
+  GOLD: [('Jim Bolger', 'PER'), ('NZ First', 'ORG'), ('National', 'ORG'), ('New Zealand', 'LOC'), ('New Zealand First', 'ORG')]
+
+[13] League teams after games played on Thursday ( tabulate under
+  PRED: []
+  GOLD: [('League', 'ORG')]
+
+[14] 21. Shannon Nobis ( U.S. ) 1:19.08
+  PRED: [('U.S.', 'LOC')]
+  GOLD: [('Shannon Nobis', 'PER'), ('U.S.', 'LOC')]
+
+[15] Canola 47.1 988.1 1135.5 46.7 894.9 822.0
+  PRED: []
+  GOLD: []
+
+[16] 8-213 9-216 .
+  PRED: []
+  GOLD: []
+
+[17] C. Harris lbw b Wasim 22
+  PRED: [('Wasim', 'PER')]
+  GOLD: [('C. Harris', 'PER'), ('Wasim', 'PER')]
+
+[18] TORONTO 11 15 0 76 89 22
+  PRED: [('TORONTO', 'ORG')]
+  GOLD: [('TORONTO', 'ORG')]
+
+[19] with the United States and with the first woman ever to hold the position of Secretary of State .
+  PRED: [('United States', 'LOC')]
+  GOLD: [('United States', 'LOC')]
+
+[20] It has produced 1.5 million hectolitres .
+  PRED: []
+  GOLD: []
+
+[21] One of the players need 10 stitches to a cut on his forearm .
+  PRED: []
+  GOLD: []
+
+[22] 10= Florence Masnada ( France ) 51
+  PRED: [('Florence', 'LOC'), ('France', 'LOC')]
+  GOLD: [('Florence', 'LOC'), ('France', 'LOC'), ('Masnada', 'PER')]
+
+[23] Salim Malik not out 1
+  PRED: [('Salim Malik', 'PER')]
+  GOLD: [('Salim Malik', 'PER')]
+
+[24] Japan 's Economic Planning Agency has not changed its view that the economy is gradually recovering , despite relatively weak gross domestic product figures released on Tuesday , EPA Vice Minister Shimpei Nukaya told reporters on Friday .
+  PRED: [('EPA', 'ORG'), ('Japan', 'LOC')]
+  GOLD: [('EPA', 'ORG'), ('Economic Planning Agency', 'ORG'), ('Japan', 'LOC'), ('Shimpei Nukaya', 'PER')]
+
+[25] The two men were hit in the pelvis and leg .
+  PRED: [('The', 'LOC')]
+  GOLD: []
+
+[26] Montrose 17 9 3 5 30 25 30
+  PRED: [('3', 'ORG'), ('Montrose', 'ORG')]
+  GOLD: [('Montrose', 'ORG')]
+
+[27] 4. Eric Bergoust ( U.S ) 207.15
+  PRED: [('U.S', 'LOC')]
+  GOLD: [('Eric Bergoust', 'PER'), ('U.S', 'LOC')]
+
+[28] Kanchelskis 28 ) .
+  PRED: []
+  GOLD: [('Kanchelskis', 'PER')]
+
+[29] WELLINGTON 1996-12-06
+  PRED: [('WELLINGTON', 'LOC')]
+  GOLD: [('WELLINGTON', 'LOC')]
+
+[30] Corn 79.6 163.5 9.4 95.7 252.0
+  PRED: []
+  GOLD: []
+
+[31] " The nomination ...
+  PRED: [('The', 'LOC')]
+  GOLD: []
+
+[32] UNITED NATIONS 1996-12-06
+  PRED: [('UNITED NATIONS', 'ORG')]
+  GOLD: [('UNITED NATIONS', 'ORG')]
+
+[33] 16. Leatitia Dalloz ( France ) 1:18.96
+  PRED: [('France', 'LOC')]
+  GOLD: [('France', 'LOC'), ('Leatitia Dalloz', 'PER')]
+
+[34] A city official , who declined to be named , explained that Goldman , Sachs , which this summer was demoted to the second tier of the syndicate , proposed the floating rate issue and as a result was promoted to book runner for this offering .
+  PRED: [('Goldman', 'PER')]
+  GOLD: [('Goldman , Sachs', 'ORG')]
+
+[35] Indiana 86 GOLDEN STATE 71
+  PRED: [('Indiana', 'LOC')]
+  GOLD: [('GOLDEN STATE', 'ORG'), ('Indiana', 'ORG')]
+
+[36] Cuttitta , who trainer George Coste said was certain to play on Saturday week , was named in a 21-man squad lacking only two of the team beaten 54-21 by England at Twickenham last month .
+  PRED: [('England', 'LOC')]
+  GOLD: [('Cuttitta', 'PER'), ('England', 'LOC'), ('George Coste', 'PER'), ('Twickenham', 'LOC')]
+
+[37] Chester 1 Boston 0
+  PRED: [('Boston', 'LOC'), ('Chester', 'ORG')]
+  GOLD: [('Boston', 'ORG'), ('Chester', 'ORG')]
+
+[38] VANCOUVER AT DALLAS
+  PRED: [('DALLAS', 'LOC'), ('VANCOUVER', 'LOC')]
+  GOLD: [('DALLAS', 'LOC'), ('VANCOUVER', 'ORG')]
+
+[39] Lille 20 7 7 6 22 28 28
+  PRED: [('Lille', 'ORG')]
+  GOLD: [('Lille', 'ORG')]
+
+[40] " I 'd like to come over but there are a lot of things happening at home .
+  PRED: []
+  GOLD: []
+
+[41] In addition , Statistics Canada indicated the following exports to the U.S. between August and September 1996 , in tonnes :
+  PRED: [('Statistics Canada', 'ORG'), ('U.S.', 'LOC')]
+  GOLD: [('Statistics Canada', 'ORG'), ('U.S.', 'LOC')]
+
+[42] Traders noted the lack of blue chips or stocks traded at significant volume among the gainers .
+  PRED: []
+  GOLD: []
+
+[43] New York City on Friday said that it planned a $ 775 million refunding for January that will include its first floating rate issue of taxable debt for European investors .
+  PRED: [('New York City', 'LOC')]
+  GOLD: [('New York City', 'LOC')]
+
+[44] Van der Vegt 77 ) .
+  PRED: [('Van', 'LOC')]
+  GOLD: [('Van der Vegt', 'PER')]
+
+[45] A police spokesman said two youths believed to be supporters of President Nelson Mandela 's African National Congress ( ANC ) had been killed when unknown gunmen opened fire at the rural settlement of Izingolweni on KwaZulu-Natal province 's south coast on Thursday night .
+  PRED: [('ANC', 'ORG'), ('African National Congress', 'ORG'), ('Nelson Mandela', 'PER')]
+  GOLD: [('ANC', 'ORG'), ('African National Congress', 'ORG'), ('Izingolweni', 'LOC'), ('KwaZulu-Natal', 'LOC'), ('Nelson Mandela', 'PER')]
+
+[46] The touring team were 27-0 ahead by half-time before easing up in the second-half .
+  PRED: [('The', 'LOC')]
+  GOLD: []
+
+[47] The overnight market opened at 22.00 / 22.75 percent , then substantial money was taken up at 22.5 percent .
+  PRED: [('The', 'LOC')]
+  GOLD: []
+
+[48] Paul Justin , starting for the sidelined Jim Harbaugh , was 14-of-23 for 144 yards and a touchdown for the the Colts , who played their last home game of the season .
+  PRED: [('Jim', 'PER'), ('Paul', 'PER')]
+  GOLD: [('Colts', 'ORG'), ('Jim Harbaugh', 'PER'), ('Paul Justin', 'PER')]
+
+[49] DETROIT 15 9 4 81 53 34
+  PRED: [('DETROIT', 'ORG')]
+  GOLD: [('DETROIT', 'ORG')]
+
+[50] In 2010/11 , domestic demand should rise further to 1.233 million tonnes while production will only reach about 914,000 tonnes .
+  PRED: []
+  GOLD: []
+
+[51] TORONTO AT NY RANGERS
+  PRED: [('TORONTO', 'ORG')]
+  GOLD: [('NY RANGERS', 'ORG'), ('TORONTO', 'ORG')]
+
+[52] ' ' The reactions from business and unions which I have seen have been almost unanimously positive , so I do n't see any problem , ' ' he said .
+  PRED: [('The', 'LOC')]
+  GOLD: []
+
+[53] Plastic surgery is booming , especially among men , as Brazilians spend much of their new-found wealth on the latest beauty treatments , said the organisers of a four-day international plastic surgery conference that opened on Friday .
+  PRED: []
+  GOLD: []
+
+[54] 19= Kate Pace Lindsay ( Canada ) 23
+  PRED: [('Canada', 'LOC')]
+  GOLD: [('Canada', 'LOC'), ('Kate Pace Lindsay', 'PER')]
+
+[55] WINNIPEG 1996-12-06
+  PRED: [('WINNIPEG', 'LOC')]
+  GOLD: [('WINNIPEG', 'LOC')]
+
+[56] NEW YORK 1996-12-07
+  PRED: [('NEW YORK', 'LOC')]
+  GOLD: [('NEW YORK', 'LOC')]
+
+[57] Ljubljana ( Slovenia ) 9 6 3 15
+  PRED: [('3', 'ORG'), ('Ljubljana', 'LOC'), ('Slovenia', 'LOC')]
+  GOLD: [('Ljubljana', 'ORG'), ('Slovenia', 'LOC')]
+
+[58] West Bromwich 20 5 9 6 26 31 24
+  PRED: [('West Bromwich', 'ORG')]
+  GOLD: [('West Bromwich', 'ORG')]
+
+[59] The agreement includes the early privatisation and modernisation of Polish oil refineries , which will be obliged to offer equal treatment to all buyers .
+  PRED: [('The', 'LOC')]
+  GOLD: []
+
+[60] LONDON 1996-12-06
+  PRED: [('LONDON', 'LOC')]
+  GOLD: [('LONDON', 'LOC')]
+
+[61] SEATTLE 5 8 0 250 317
+  PRED: [('SEATTLE', 'ORG')]
+  GOLD: [('SEATTLE', 'ORG')]
+
+[62] K.J. Matthew said at the Asia Rubber Markets meeting here Indian production of natural rubber in 1996/97 will reach 547,000 tonnes against projected demand of 578,000 tonnes , a gap of 31,000 tonnes .
+  PRED: [('Asia', 'LOC')]
+  GOLD: [('K.J. Matthew', 'PER')]
+
+[63] Results in last of the group matches at the World Grand Prix badminton finals on Friday :
+  PRED: []
+  GOLD: []
+
+[64] Thai rice vessels loading and movements at Dec 06 .
+  PRED: []
+  GOLD: []
+
+[65] " We hope that if the front moves forward or stabilises then we will have access ( to the large group of refugees ) with reconnaissance or humanitarian agencies .
+  PRED: []
+  GOLD: []
+
+[66] SOCCER - BALKAN STRIKE FORCE WIN OLD FIRM GAME FOR REAL .
+  PRED: []
+  GOLD: [('BALKAN', 'LOC'), ('REAL', 'ORG')]
+
+[67] 5. Ricco Gross ( Germany ) 26:33.0 ( 1 )
+  PRED: [('Germany', 'LOC')]
+  GOLD: [('Germany', 'LOC'), ('Ricco Gross', 'PER')]
+
+[68] 1. Renate Goetschl ( Austria ) one minute 47.71 seconds
+  PRED: [('Austria', 'LOC')]
+  GOLD: [('Austria', 'LOC'), ('Renate Goetschl', 'PER')]
+
+[69] He was responding to questions at a news conference called to discuss next week 's ministerial meeting of the Organisation of the Islamic Conference ( OIC ) in Jakarta .
+  PRED: [('Jakarta', 'LOC'), ('OIC', 'ORG'), ('Organisation of the Islamic Conference', 'ORG')]
+  GOLD: [('Jakarta', 'LOC'), ('OIC', 'ORG'), ('Organisation of the Islamic Conference', 'ORG')]
+
+[70] " If there are any movements toward freer trade , then Singapore 's economy and the electorate would gain , " he said . "
+  PRED: [('Singapore', 'LOC')]
+  GOLD: [('Singapore', 'LOC')]
+
+[71] Sevilla 15 4 2 9 13 20 14
+  PRED: []
+  GOLD: [('Sevilla', 'ORG')]
+
+[72] 30,018
+  PRED: []
+  GOLD: []
+
+[73] Benjamin 9.4-0-43-1 ( 1nb 1w ) , Hooper 10-0-27-2 ( 1nb ) , McLean
+  PRED: []
+  GOLD: [('Benjamin', 'PER'), ('Hooper', 'PER'), ('McLean', 'PER')]
+
+[74] Sevilla ( Spain ) 9 4 5 13
+  PRED: [('Spain', 'LOC')]
+  GOLD: [('Sevilla', 'ORG'), ('Spain', 'LOC')]
+
+[75] semifinals at the World Grand Prix finals on Saturday :
+  PRED: []
+  GOLD: []
+
+[76] " In 1970s , Poland received from unclaimed accounts in Switzerland a sum of 460,000 francs .
+  PRED: [('Poland', 'LOC'), ('Switzerland', 'LOC')]
+  GOLD: [('Poland', 'LOC'), ('Switzerland', 'LOC')]
+
+[77] Regular defender Artur Lekbello , who is injured , was missing from Hafizi 's squad named on Saturday for the Belfast match .
+  PRED: []
+  GOLD: [('Artur Lekbello', 'PER'), ('Belfast', 'LOC'), ('Hafizi', 'PER')]
+
+[78] A statement said Piniel Sindiso Ncube was hanged at dawn .
+  PRED: []
+  GOLD: [('Piniel Sindiso Ncube', 'PER')]
+
+[79] Dong Jiong ( China ) beat Thomas Stuer-Lauridsen ( Denmark ) 15-10 15-6
+  PRED: [('China', 'LOC'), ('Denmark', 'LOC')]
+  GOLD: [('China', 'LOC'), ('Denmark', 'LOC'), ('Dong Jiong', 'PER'), ('Thomas Stuer-Lauridsen', 'PER')]
+
+[80] Van Boxmeer would not say how much higher 1997 profits or market share could be but said sales of leading Polish brewers should rise as the country 's young urban professionals gradually switch from vodka to beer .
+  PRED: [('Van', 'LOC')]
+  GOLD: [('Van Boxmeer', 'PER')]
+
+[81] Tampa Bay 2 LOS ANGELES 1
+  PRED: [('LOS ANGELES', 'ORG')]
+  GOLD: [('LOS ANGELES', 'ORG'), ('Tampa Bay', 'ORG')]
+
+[82] ROME 1996-12-06
+  PRED: [('ROME', 'LOC')]
+  GOLD: [('ROME', 'LOC')]
+
+[83] China made a promising debut on the freestyle skiing world cup circuit in an aerials event in the French resort of Tignes on Saturday .
+  PRED: [('China', 'LOC')]
+  GOLD: [('China', 'LOC'), ('Tignes', 'LOC')]
+
+[84] first division match :
+  PRED: []
+  GOLD: []
+
+[85] It gave no further details .
+  PRED: []
+  GOLD: []
+
+[86] Results of French first division
+  PRED: []
+  GOLD: []
+
+[87] On Tuesday and Wednesday , opposition leader Aung San Suu Kyi was restricted to her home by the military government to prevent her from being drawn into the protests .
+  PRED: [('Wednesday', 'ORG')]
+  GOLD: [('Aung San Suu Kyi', 'PER')]
+
+[88] -- Chris Aspin , Mexico City newsroom +525 728-7903
+  PRED: [('Mexico City', 'LOC')]
+  GOLD: [('Chris Aspin', 'PER'), ('Mexico City', 'LOC')]
+
+[89] Charleroi - Eric Cleymans 18 , Ron Ellis 18 , Jacques Stas 14
+  PRED: [('Charleroi', 'LOC')]
+  GOLD: [('Charleroi', 'ORG'), ('Eric Cleymans', 'PER'), ('Jacques Stas', 'PER'), ('Ron Ellis', 'PER')]
+
+[90] 4. Grunde Njos ( Norway ) 1:16.44
+  PRED: [('Norway', 'LOC')]
+  GOLD: [('Grunde Njos', 'PER'), ('Norway', 'LOC')]
+
+[91] Aug 97 72.41 72.07 68.01 69.45-74.18
+  PRED: []
+  GOLD: []
+
+[92] 28,418
+  PRED: []
+  GOLD: []
+
+[93] SOCCER - NORTHERN IRELAND PREMIER DIVISION RESULTS / STANDINGS .
+  PRED: []
+  GOLD: [('NORTHERN IRELAND', 'LOC')]
+
+[94] TIGNES , France 1996-12-07
+  PRED: [('France', 'LOC')]
+  GOLD: [('France', 'LOC'), ('TIGNES', 'LOC')]
+
+[95] MELBOURNE 1996-12-06
+  PRED: [('MELBOURNE', 'LOC')]
+  GOLD: [('MELBOURNE', 'LOC')]
+
+[96] 19. Stefanie Schuster ( Austria ) 89
+  PRED: [('Austria', 'LOC')]
+  GOLD: [('Austria', 'LOC'), ('Stefanie Schuster', 'PER')]
+
+[97] They have 104 points , 15 ahead of USA I 's Jim Herberich and breakman Garrett Hines who managed only 10th place on Saturday .
+  PRED: [('Jim', 'PER'), ('USA', 'LOC')]
+  GOLD: [('Garrett Hines', 'PER'), ('Jim Herberich', 'PER'), ('USA I', 'ORG')]
+
+[98] SOCCER SHOWCASE-BETTING ON REAL MADRID V BARCELONA .
+  PRED: [('BARCELONA', 'ORG'), ('MADRID', 'LOC')]
+  GOLD: [('BARCELONA', 'ORG'), ('REAL MADRID', 'ORG')]
+
+[99] -- Rosemary Bennett , London Newsroom 44 171 542 2774
+  PRED: [('London Newsroom', 'ORG'), ('Rosemary Bennett', 'PER')]
+  GOLD: [('London Newsroom', 'ORG'), ('Rosemary Bennett', 'PER')]
+
+[100] Portsmouth 22 7 5 10 25 29 26
+  PRED: [('Portsmouth', 'ORG')]
+  GOLD: [('Portsmouth', 'LOC')]
+
+[101] Police said the bombs were found hidden with incendiaries and ammunition that were blocked up behind a kitchen wall .
+  PRED: []
+  GOLD: []
+
+[102] Paris St Germain 1 Nancy 2
+  PRED: [('Nancy', 'ORG'), ('Paris St Germain', 'ORG')]
+  GOLD: [('Nancy', 'ORG'), ('Paris St Germain', 'ORG')]
+
+[103] Indian Sept crude oil output falls to 2.6 mln T .
+  PRED: []
+  GOLD: []
+
+[104] Matthew estimates that by the 2000/01 season , the gap between natural rubber output and consumption will rise to 51,000 tonnes and 319,000 tonnes in 2010/11 .
+  PRED: []
+  GOLD: [('Matthew', 'PER')]
+
+[105] The Canadian Wheat Board reported six ships loading , 10 waiting and four due at the Canadian West Coast , as of Friday .
+  PRED: [('Board', 'ORG'), ('The', 'LOC'), ('West Coast', 'ORG')]
+  GOLD: [('Canadian Wheat Board', 'ORG')]
+
+[106] ( 52.82 / 53.13 )
+  PRED: []
+  GOLD: []
+
+[107] LONDON 1996-12-07
+  PRED: [('LONDON', 'LOC')]
+  GOLD: [('LONDON', 'LOC')]
+
+[108] The newspaper said the girl was rushed to hospital and found to be having extreme difficulty breathing .
+  PRED: [('The', 'LOC')]
+  GOLD: []
+
+[109] Albright , born Marie Korbelova to a Czechoslovak diplomat in 1937 , fled with her family to the United States after the Communists came to power in a coup in 1948 .
+  PRED: [('United States', 'LOC')]
+  GOLD: [('Albright', 'PER'), ('Marie Korbelova', 'PER'), ('United States', 'LOC')]
+
+[110] Cliftonville 1 Portadown 1
+  PRED: []
+  GOLD: [('Cliftonville', 'ORG'), ('Portadown', 'ORG')]
+
+[111] -- Moscow Newsroom , +7095 941 8520
+  PRED: [('Moscow Newsroom', 'ORG')]
+  GOLD: [('Moscow Newsroom', 'ORG')]
+
+[112] The lanky former Leeds United defender did not make his England debut until the age of 30 but eventually won 35 caps and was a key member of the 1966 World Cup winning team with his younger brother , Bobby .
+  PRED: [('England', 'LOC'), ('Leeds United', 'ORG'), ('The', 'LOC')]
+  GOLD: [('Bobby', 'PER'), ('England', 'LOC'), ('Leeds United', 'ORG')]
+
+[113] 209 Steve van Vuuren 65 69 75
+  PRED: []
+  GOLD: [('Steve van Vuuren', 'PER')]
+
+[114] Harper was eventually dismissed for 77 after the pair joined forces with their side reeling on nine for two .
+  PRED: []
+  GOLD: [('Harper', 'PER')]
+
+[115] soccer championship semifinal , first leg matches on Thursday .
+  PRED: []
+  GOLD: []
+
+[116] " I expect that the commission will finish gathering information within two to three weeks and then more details will be provided , " Rosati said .
+  PRED: [('Rosati', 'PER')]
+  GOLD: [('Rosati', 'PER')]
+
+[117] COLORADO AT LOS ANGELES
+  PRED: [('COLORADO', 'ORG'), ('LOS ANGELES', 'ORG')]
+  GOLD: [('COLORADO', 'ORG'), ('LOS ANGELES', 'LOC')]
+
+[118] Bowling : Wasim Akram 8.1-0-43-3 ( 9w , 1nb ) , Waqar Younis
+  PRED: [('Waqar Younis', 'PER'), ('Wasim Akram', 'PER')]
+  GOLD: [('Waqar Younis', 'PER'), ('Wasim Akram', 'PER')]
+
+[119] MILWAUKEE AT WASHINGTON
+  PRED: [('MILWAUKEE', 'ORG'), ('WASHINGTON', 'LOC')]
+  GOLD: [('MILWAUKEE', 'ORG'), ('WASHINGTON', 'LOC')]
+
+[120] Medical experts had concluded Buza was mentally unstable but fully responsible for the act he had committed , Gjonaj said .
+  PRED: []
+  GOLD: [('Buza', 'PER'), ('Gjonaj', 'PER')]
+
+[121] 12/15/2005 55M 4.60 4.60
+  PRED: []
+  GOLD: []
+
+[122] Nov 97 68.00 68.05 63.98 65.43-70.16
+  PRED: []
+  GOLD: []
+
+[123] Australia
+  PRED: [('Australia', 'LOC')]
+  GOLD: [('Australia', 'LOC')]
+
+[124] Partizan - Dejan Koturovic 21
+  PRED: [('Partizan', 'ORG')]
+  GOLD: [('Dejan Koturovic', 'PER'), ('Partizan', 'ORG')]
+
+[125] " Bre-X is expected to complete the feasibility report by December 16 and submit it to the government before the December 21 deadline , " the source said .
+  PRED: []
+  GOLD: [('Bre-X', 'ORG')]
+
+[126] Arbroath 16 2 6 8 12 23 12
+  PRED: [('Arbroath', 'ORG')]
+  GOLD: [('Arbroath', 'ORG')]
+
+[127] Buza last April said he would blow himself up outside the presidential palace unless he was allowed to speak to Berisha , who was at the time meeting Italian President Oscar Luigi Scalfaro .
+  PRED: [('Oscar', 'PER')]
+  GOLD: [('Berisha', 'PER'), ('Buza', 'PER'), ('Oscar Luigi Scalfaro', 'PER')]
+
+[128] Top-seeded Eyles now meets titleholder Peter Nicol of Scotland who overcame Simon Parke of England 15-7 15-12 15-12 .
+  PRED: [('England', 'LOC'), ('Peter Nicol', 'PER'), ('Scotland', 'LOC'), ('Simon Parke', 'PER')]
+  GOLD: [('England', 'LOC'), ('Eyles', 'PER'), ('Peter Nicol', 'PER'), ('Scotland', 'LOC'), ('Simon Parke', 'PER')]
+
+[129] 145.4 / second jump 158 )
+  PRED: []
+  GOLD: []
+
+[130] About 112 lots were exchanged overall , traders said .
+  PRED: []
+  GOLD: []
+
+[131] Saturday 12/07/96 ( est ) 38,000 0 18,000
+  PRED: []
+  GOLD: []
+
+[132] United States I ( Jim Herberich , Garrett
+  PRED: [('Jim', 'PER'), ('United States', 'LOC')]
+  GOLD: [('Garrett', 'PER'), ('Jim Herberich', 'PER'), ('United States I', 'ORG')]
+
+[133] " The EU and Poland have now reached a final settlement regarding issues related to the Polish import regime in the oils sector , " the Commission said in a statement .
+  PRED: [('Commission', 'ORG'), ('EU', 'ORG'), ('Poland', 'LOC'), ('The', 'LOC')]
+  GOLD: [('Commission', 'ORG'), ('EU', 'ORG'), ('Poland', 'LOC')]
+
+[134] Groningen 18 4 6 8 20 31 18
+  PRED: [('Groningen', 'ORG')]
+  GOLD: [('Groningen', 'ORG')]
+
+[135] Manitoba Pork closing forward contract prices in Canadian dollars per hundred lbs ( Cwt ) for Dec 6 including minimum guaranteed price --
+  PRED: [('Manitoba', 'LOC')]
+  GOLD: [('Manitoba Pork', 'ORG')]
+
+[136] The British government warned Friday that it would refer the proposed trans-Atlantic alliance between British Airways Plc and American Airlines to Britain 's Monopolies and Mergers Commission unless the carriers complied with a number of conditions .
+  PRED: [('American Airlines', 'ORG'), ('Britain', 'LOC'), ('British Airways', 'ORG'), ('Commission', 'ORG'), ('The', 'LOC')]
+  GOLD: [('American Airlines', 'ORG'), ('Britain', 'LOC'), ('British Airways Plc', 'ORG'), ('Monopolies and Mergers Commission', 'ORG')]
+
+[137] GLASGOW 1996-12-07
+  PRED: [('GLASGOW', 'LOC')]
+  GOLD: [('GLASGOW', 'LOC')]
+
+[138] He said the GDP growth was weak but that this reflected the economy between July and September and did not take into account more recent data .
+  PRED: []
+  GOLD: []
+
+[139] His statement was interpreted as a significant victory for Clarke and fellow pro-European Michael Heseltine , deputy prime minister .
+  PRED: [('Michael', 'PER')]
+  GOLD: [('Clarke', 'PER'), ('Michael Heseltine', 'PER')]
+
+[140] Rain earlier delayed the start of play by 30 minutes .
+  PRED: []
+  GOLD: []
+
+[141] Rangers 4 Hibernian 3
+  PRED: [('3', 'ORG'), ('Hibernian', 'ORG'), ('Rangers', 'ORG')]
+  GOLD: [('Hibernian', 'ORG'), ('Rangers', 'ORG')]
+
+[142] ALPINE SKIING-WOMEN 'S WORLD CUP SUPER G RESULTS .
+  PRED: []
+  GOLD: []
+
+[143] In congruence with futures , Permian cash prices for the weekend fell more than 10 cents to the high - $ 3.40s.
+  PRED: []
+  GOLD: []
+
+[144] Age : 25
+  PRED: []
+  GOLD: []
+
+[145] MOODY 'S : Aaa / A1 S&P : AAA / AA-
+  PRED: [("MOODY 'S", 'ORG'), ('S&P', 'ORG')]
+  GOLD: [("MOODY 'S", 'ORG'), ('S&P', 'ORG')]
+
+[146] Ramos Horta has been a vocal leader of the opposition to Jakarta 's rule in the territory .
+  PRED: [('Jakarta', 'LOC')]
+  GOLD: [('Jakarta', 'LOC'), ('Ramos Horta', 'PER')]
+
+[147] Havel had a small malignant tumour removed from his lung on Monday and is recovering in hospital .
+  PRED: [('Havel', 'PER')]
+  GOLD: [('Havel', 'PER')]
+
+[148] AMSTERDAM 1996-12-06
+  PRED: [('AMSTERDAM', 'LOC')]
+  GOLD: [('AMSTERDAM', 'LOC')]
+
+[149] These people do n't understand what they 're doing . "
+  PRED: []
+  GOLD: []
+
+[150] Inquiry good , demand light .
+  PRED: []
+  GOLD: []
+
+[151] WASHINGTON 13 12 1 69 66 27
+  PRED: [('WASHINGTON', 'LOC')]
+  GOLD: [('WASHINGTON', 'ORG')]
+
+[152] Ipswich 0 Wolverhampton 0
+  PRED: [('Ipswich', 'ORG'), ('Wolverhampton', 'ORG')]
+  GOLD: [('Ipswich', 'ORG'), ('Wolverhampton', 'ORG')]
+
+[153] Centre Jason Little will miss Australia 's end-of-tour fixture against the Barbarians at Twickenham on Saturday .
+  PRED: [('Australia', 'LOC'), ('Little', 'PER')]
+  GOLD: [('Australia', 'LOC'), ('Barbarians', 'ORG'), ('Jason Little', 'PER'), ('Twickenham', 'LOC')]
+
+[154] DETROIT 13 3 .813 3
+  PRED: [('3', 'ORG'), ('3', 'ORG'), ('DETROIT', 'ORG')]
+  GOLD: [('DETROIT', 'ORG')]
+
+[155] 15,000 .
+  PRED: []
+  GOLD: []
+
+[156] rounds )
+  PRED: []
+  GOLD: []
+
+[157] Lyon 20 6 8 6 24 31 26
+  PRED: [('Lyon', 'ORG')]
+  GOLD: [('Lyon', 'ORG')]
+
+[158] Group A standings ( tabulate under : played , won , drawn , lost ,
+  PRED: []
+  GOLD: []
+
+[159] premier league after Saturday 's matches :
+  PRED: []
+  GOLD: []
+
+[160] Corn 4.4 15.1 87.0 0.6 22.1 11.1
+  PRED: []
+  GOLD: []
+
+[161] VAIL , Colorado 1996-12-07
+  PRED: [('Colorado', 'LOC')]
+  GOLD: [('Colorado', 'LOC'), ('VAIL', 'LOC')]
+
+[162] N. McLean c and b M. Waugh 7
+  PRED: [('M. Waugh', 'PER')]
+  GOLD: [('M. Waugh', 'PER'), ('N. McLean', 'PER')]
+
+[163] Adding to the comments by " Mr Yen " , as Sakakibara is known for his prominence in the currency market , was BOJ governor Matsushita 's remark .
+  PRED: [('BOJ', 'ORG')]
+  GOLD: [('BOJ', 'ORG'), ('Matsushita', 'PER'), ('Mr Yen', 'PER'), ('Sakakibara', 'PER')]
+
+[164] Comments by Japan 's tight-lipped central bank chief and an influential top bureaucrat are further signs that the nation 's authorities want to keep the dollar at current levels , market sources said on Friday .
+  PRED: [('Japan', 'LOC')]
+  GOLD: [('Japan', 'LOC')]
+
+[165] Defending champions Beth Daniel and Davis Love will start the final round six shots off the pace .
+  PRED: [('Davis Love', 'PER')]
+  GOLD: [('Beth Daniel', 'PER'), ('Davis Love', 'PER')]
+
+[166] -- London Newsroom +44 171 542-7768
+  PRED: [('London Newsroom', 'ORG')]
+  GOLD: [('London Newsroom', 'ORG')]
+
+[167] The group , known as Munich Re , plans to seek approval for the move at its shareholders ' meeting today .
+  PRED: [('Munich', 'LOC'), ('Re', 'ORG'), ('The', 'LOC')]
+  GOLD: [('Munich Re', 'ORG')]
+
+[168] Volume was very thin and market remained long , with premiums down $ 1 at about high cif quotes +$0.50 basis Genoa . "
+  PRED: [('Genoa', 'ORG')]
+  GOLD: [('Genoa', 'ORG')]
+
+[169] Princess of Loine 19/11/96 10,000 Philippines
+  PRED: []
+  GOLD: [('Philippines', 'LOC')]
+
+[170] Syria : 24 - Salem Bitar , 3 - Bachar Srour ; 4 - Hassan Abbas , 5 - Tarek Jabban , 6 - Ammar Awad ( 9 - Louay Taleb 69 ) , 8 - Nihad al-Boushi , 10 - Mohammed Afash , 12 - Ali Dib , 13 - Abdul Latif Helou ( 17 - Ammar Rihawiy 46 ) , 14 - Khaled Zaher ; 16 - Nader Jokhadar .
+  PRED: [('3', 'ORG'), ('Mohammed', 'PER'), ('Syria', 'LOC')]
+  GOLD: [('Abdul Latif Helou', 'PER'), ('Ali Dib', 'PER'), ('Ammar Awad', 'PER'), ('Ammar Rihawiy', 'PER'), ('Bachar Srour', 'PER'), ('Hassan Abbas', 'PER'), ('Khaled Zaher', 'PER'), ('Louay Taleb', 'PER'), ('Mohammed Afash', 'PER'), ('Nader Jokhadar', 'PER'), ('Nihad al-Boushi', 'PER'), ('Salem Bitar', 'PER'), ('Syria', 'LOC'), ('Tarek Jabban', 'PER')]
+
+[171] Leading goalscorers in the English
+  PRED: []
+  GOLD: []
+
+[172] Newcastle 15 9 2 4 26 17 29
+  PRED: [('Newcastle', 'ORG')]
+  GOLD: [('Newcastle', 'ORG')]
+
+[173] LA LAKERS 13 7 .650 2
+  PRED: []
+  GOLD: [('LA LAKERS', 'ORG')]
+
+[174] Villa ) , Les Ferdinand ( Newcastle ) , Efan Ekoku ( Wimbledon ) ,
+  PRED: [('Les Ferdinand', 'PER'), ('Newcastle', 'ORG'), ('Villa', 'PER'), ('Wimbledon', 'ORG')]
+  GOLD: [('Efan Ekoku', 'PER'), ('Les Ferdinand', 'PER'), ('Newcastle', 'ORG'), ('Villa', 'ORG'), ('Wimbledon', 'LOC')]
+
+[175] " We have a divided and split Cabinet .
+  PRED: [('Cabinet', 'ORG')]
+  GOLD: [('Cabinet', 'ORG')]
+
+[176] December 14 )
+  PRED: []
+  GOLD: []
+
+[177] Jul 97 74.45 74.01 69.95 71.39-76.12
+  PRED: []
+  GOLD: []
+
+[178] 210 Brett Liddle 75 65 70
+  PRED: []
+  GOLD: [('Brett Liddle', 'PER')]
+
+[179] ( 52.89 / 53.13 )
+  PRED: []
+  GOLD: []
+
+[180] If it is necessary , I wo n't hesitate to use it , " he said .
+  PRED: []
+  GOLD: []
+
+[181] Chicago 78,056 0
+  PRED: [('Chicago', 'LOC')]
+  GOLD: [('Chicago', 'LOC')]
+
+[182] Strasbourg 20 11 1 8 27 27 34
+  PRED: [('Strasbourg', 'ORG')]
+  GOLD: [('Strasbourg', 'ORG')]
+
+[183] Alessandra Mussolini , the granddaughter of Italy 's Fascist dictator Benito Mussolini , said on Friday she had rejoined the far-right National Alliance ( AN ) party she quit over policy differences last month .
+  PRED: [('Italy', 'LOC'), ('National', 'ORG')]
+  GOLD: [('AN', 'ORG'), ('Alessandra Mussolini', 'PER'), ('Benito Mussolini', 'PER'), ('Italy', 'LOC'), ('National Alliance', 'ORG')]
+
+[184] Nader Jokhadar had given Syria the lead with a well-struck header in the seventh minute .
+  PRED: [('Syria', 'LOC')]
+  GOLD: [('Nader Jokhadar', 'PER'), ('Syria', 'LOC')]
+
+[185] Tottenham 16 7 2 7 17 17 23
+  PRED: [('Tottenham', 'ORG')]
+  GOLD: [('Tottenham', 'ORG')]
+
+[186] Premier league
+  PRED: []
+  GOLD: []
+
+[187] Cricket - Pakistan beat New Zealand by 46 runs .
+  PRED: [('New Zealand', 'LOC'), ('Pakistan', 'LOC')]
+  GOLD: [('New Zealand', 'LOC'), ('Pakistan', 'LOC')]
+
+[188] WASHINGTON 1996-12-05
+  PRED: [('WASHINGTON', 'LOC')]
+  GOLD: [('WASHINGTON', 'LOC')]
+
+[189] Wrexham 2 Scunthorpe 2
+  PRED: [('Scunthorpe', 'ORG'), ('Wrexham', 'ORG')]
+  GOLD: [('Scunthorpe', 'ORG'), ('Wrexham', 'ORG')]
+
+[190] 14-1 Barcelona Draw
+  PRED: [('Barcelona', 'ORG')]
+  GOLD: [('Barcelona', 'ORG')]
+
+[191] " If it goes on like this , we wo n't have enough time to finish all the discussions , " a frustrated Western delegate said . "
+  PRED: []
+  GOLD: []
+
+[192] ( tabulate under won , lost , percentage , games behind ) :
+  PRED: []
+  GOLD: []
+
+[193] 29. Patrizia Bassis ( Italy ) 1:51.13
+  PRED: [('Italy', 'LOC')]
+  GOLD: [('Italy', 'LOC'), ('Patrizia Bassis', 'PER')]
+
+[194] The weather in the capital Port Louis was heavily cloudy on Friday afternoon with occasional showers .
+  PRED: [('The', 'LOC')]
+  GOLD: [('Port Louis', 'LOC')]
+
+[195] It all culminated in the fact that I now have lots of great , great friends in Ireland .
+  PRED: [('Ireland', 'LOC')]
+  GOLD: [('Ireland', 'LOC')]
+
+[196] ( 52.74 / 53.19 )
+  PRED: []
+  GOLD: []
+
+[197] 18. Barbara Merlin ( Italy ) 92
+  PRED: [('Italy', 'LOC')]
+  GOLD: [('Barbara Merlin', 'PER'), ('Italy', 'LOC')]
+
+[198] On Friday , the road leading to Suu Kyi 's lakeside residence in central Rangoon remained closed by police .
+  PRED: [('Rangoon', 'LOC')]
+  GOLD: [('Rangoon', 'LOC'), ('Suu Kyi', 'PER')]
+
+[199] LONDON 1996-12-07
+  PRED: [('LONDON', 'LOC')]
+  GOLD: [('LONDON', 'LOC')]
+

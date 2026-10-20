@@ -1,0 +1,79 @@
+======================================================================
+DICTIONARY SIZES (unique phrases from training data)
+======================================================================
+  PER :   3614
+  LOC :   1332
+  ORG :   2403
+  Longest phrase: 10 tokens
+  e.g. PER: ['Francois-Rene ( Vicomte de ) Chateaubriand', 'E.F. ( Fritz ) Schumacher', 'Jean Van de Velde']
+  e.g. LOC: ['El Pueblo de Nuestra Senora La Reina de Los Angeles', 'The Town of Our Lady the Queen of the Angels', 'Royal Free Hospital School of Medicine']
+  e.g. ORG: ['Rally for the Return of Refugees and Democracy in Rwanda', "National Socialist German Workers ' Party Foreign Organisation", 'China National Nonferrous Metals Import and Export Corp']
+
+======================================================================
+RESULTS ON 200 UNSEEN TEST SENTENCES
+======================================================================
+  Gold entities (PER/LOC/ORG) : 263
+  Predicted entities          : 190
+  Correctly identified        : 133
+
+  Type           P       R      F1    TP    FP    FN
+  PER       0.6000  0.1579  0.2500    15    10    80
+  LOC       0.6774  0.7975  0.7326    63    30    16
+  ORG       0.7639  0.6180  0.6832    55    17    34
+  OVERALL   0.7000  0.5057  0.5872   133    57   130
+
+Sample predicted entities (first 25):
+    ('Wasim Akram', 'PER')
+    ('Mansfield', 'ORG')
+    ('New York Commodities', 'ORG')
+    ('The', 'LOC')
+    ('Bucharest Newsroom', 'ORG')
+    ('Wycombe', 'ORG')
+    ('Indianapolis', 'LOC')
+    ('Kansas City', 'LOC')
+    ('Cincinnati', 'ORG')
+    ('Torquay', 'ORG')
+    ('New Zealand', 'LOC')
+    ('Jim Bolger', 'PER')
+    ('New Zealand', 'LOC')
+    ('National', 'ORG')
+    ('NZ', 'LOC')
+    ('U.S.', 'LOC')
+    ('Wasim', 'PER')
+    ('TORONTO', 'ORG')
+    ('United States', 'LOC')
+    ('Florence', 'LOC')
+    ('France', 'LOC')
+    ('Salim Malik', 'PER')
+    ('Japan', 'LOC')
+    ('EPA', 'ORG')
+    ('The', 'LOC')
+
+Sample correctly identified entities (first 25):
+    ('Wasim Akram', 'PER')
+    ('Mansfield', 'ORG')
+    ('New York Commodities', 'ORG')
+    ('Bucharest Newsroom', 'ORG')
+    ('Wycombe', 'ORG')
+    ('Indianapolis', 'LOC')
+    ('Kansas City', 'LOC')
+    ('Torquay', 'ORG')
+    ('New Zealand', 'LOC')
+    ('Jim Bolger', 'PER')
+    ('National', 'ORG')
+    ('U.S.', 'LOC')
+    ('Wasim', 'PER')
+    ('TORONTO', 'ORG')
+    ('United States', 'LOC')
+    ('Florence', 'LOC')
+    ('France', 'LOC')
+    ('Salim Malik', 'PER')
+    ('Japan', 'LOC')
+    ('EPA', 'ORG')
+    ('Montrose', 'ORG')
+    ('U.S', 'LOC')
+    ('WELLINGTON', 'LOC')
+    ('UNITED NATIONS', 'ORG')
+    ('France', 'LOC')
+
+Per-sentence predictions saved to results/predictions.txt
